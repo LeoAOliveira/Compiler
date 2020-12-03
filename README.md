@@ -15,7 +15,3 @@ The project is divided into 4 stages corresponding to 4 deliveries made during t
 ### Finite automaton
 
 ![alt text](https://github.com/LeoAOliveira/Compiler/blob/main/Finite%20automaton/Finite%20automaton.png?raw=true)
-
-### AlgZinh grammar
-
-![alt text](https://github.com/LeoAOliveira/Compiler/blob/main/Grammar.pdf)
