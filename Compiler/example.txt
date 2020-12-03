@@ -1,0 +1,32 @@
+/* 
+ * comentario
+ */ 
+fun _f ( int _a ) 
+    _a := 10 ; 
+    plot ( _a ) ; 
+. 
+main 
+    int _a , _b , _c ; 
+    log _d , _e , _f ; 
+
+    _a := 2 ;       /* comentario */ 
+    _b := 10 ; 
+    _c := 11 ; 
+    _a := _b + _c ; 
+    _d := tru ; 
+    _e := fal ; 
+    _f := tru ; 
+    plot ( _b ) ; 
+    if ( _d ) then  
+	_f ( 20 ) ;  
+	_b := 10 * _c ;  
+	_c := _a div _b ; 
+    ifh ; 
+    do  
+	if ( _b > 10 ) then 
+	    _b := 2 ; 
+	else 
+	    _a := _a - 1 ; 
+	ifh ; 
+    while ( _a <= 1 ) ; 
+. 
