@@ -1,6 +1,12 @@
 # Compiler
 Creating a compiler: lexical, syntactic and semantic analysis
 
+
+### Finite automaton
+
+![alt text](https://github.com/LeoAOliveira/Compiler/blob/main/Finite%20automaton/Finite%20automaton.png?raw=true)
+
+
 ### Project Statement
 
 The purpose of this activity is the implementation of the front-end stages of the design of a programming language, that is, the first stages of building a specific language compiler.
