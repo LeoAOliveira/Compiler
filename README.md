@@ -1,2 +1,2 @@
 # Compiler
-Creating a compiler: lexicon and syntactic analysis and symbols table
+Creating a compiler: lexicon, syntactic and semantic analysis
